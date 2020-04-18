@@ -60,21 +60,6 @@
     align-items: center;
 }
 
-footer {
-    position: absolute;
-    bottom: 22px;
-    width: 100%;
-    
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: center;
-}
-
-footer p {
-    color: #000;
-    font-size: 16px;
-}
-
 @font-face {
     font-family: 'Code Pro';
     src: url('../fonts/Code-Pro-Bold.woff2') format('woff2'),
