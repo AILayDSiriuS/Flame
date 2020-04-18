@@ -111,3 +111,40 @@ footer p {
     color: #000;
     font-size: 16px;
 }
+
+@font-face {
+    font-family: 'Code Pro';
+    src: url('../fonts/Code-Pro-Bold.woff2') format('woff2'),
+        url('../fonts/Code-Pro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archive';
+    src: url('../fonts/Archive.woff2') format('woff2'),
+        url('../fonts/Archive.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Panton';
+    src: url('../fonts/Panton-SemiBold.woff') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Panton';
+    src: url('../fonts/Panton-Light.woff') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Panton';
+    src: url('../fonts/Panton-ExtraBold.woff') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}

@@ -119,18 +119,3 @@
 footer {
     margin-top: 99px;
 }
-
-@font-face {
-    font-family: 'Panton';
-    src: url('../fonts/Panton-SemiBold.woff') format('woff2');
-    font-weight: 600;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Archive';
-    src: url('../fonts/Archive.woff2') format('woff2'),
-        url('../fonts/Archive.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}

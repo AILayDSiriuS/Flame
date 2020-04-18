@@ -60,19 +60,4 @@
     align-items: center;
 }
 
-@font-face {
-    font-family: 'Code Pro';
-    src: url('../fonts/Code-Pro-Bold.woff2') format('woff2'),
-        url('../fonts/Code-Pro-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Archive';
-    src: url('../fonts/Archive.woff2') format('woff2'),
-        url('../fonts/Archive.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
 
